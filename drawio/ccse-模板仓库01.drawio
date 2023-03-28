@@ -1,11 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T06:09:37.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8_JTe_ZIT15CCJgiwy8V" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T01:09:45.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="biVm7zbqUV4eicK1NEBZ" version="21.1.1" type="github">
   <diagram name="第 1 页" id="3SKIn91DbVfWYXKpx-8t">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QlsKVG2LlwlAk6XckgsW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="460" height="200" as="geometry" />
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-1" value="前端Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-2" value="ccseone-apiserver&lt;br&gt;&lt;br&gt;cso-template-store-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-3" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-7" value="ccse仓库&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(文件前置写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-8" value="git仓库&lt;br&gt;(文件前置写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-9" value="yaml模板&lt;br&gt;(自动写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yIxE9zjbwi3bGgeXcrSg-2" target="yIxE9zjbwi3bGgeXcrSg-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yIxE9zjbwi3bGgeXcrSg-2" target="yIxE9zjbwi3bGgeXcrSg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="150" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yIxE9zjbwi3bGgeXcrSg-1" target="yIxE9zjbwi3bGgeXcrSg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-14" value="直接写etcd,无DBA层?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="450" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
