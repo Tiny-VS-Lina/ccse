@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T02:04:53.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UwKt4vA4vL__qux4m3L7" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T02:05:06.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oZsW-ay3k1_APt2JjRH9" version="21.1.1" type="github">
   <diagram name="架构图" id="3SKIn91DbVfWYXKpx-8t">
     <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,9 +111,6 @@
             <mxPoint x="1405" y="710" as="sourcePoint" />
             <mxPoint x="1455" y="660" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yIxE9zjbwi3bGgeXcrSg-37" value="单体服务架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="105" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
