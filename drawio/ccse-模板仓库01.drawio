@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T02:34:34.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UZ29YJILboQHleeUht3G" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T07:03:23.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Lq38I3q8Wa6nH_mqx8cc" version="21.1.1" type="github">
   <diagram name="架构图" id="3SKIn91DbVfWYXKpx-8t">
-    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="yIxE9zjbwi3bGgeXcrSg-8" value="git仓库&lt;br&gt;(文件前置写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="439" y="600" width="76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yIxE9zjbwi3bGgeXcrSg-9" value="yaml模板&lt;br&gt;(自动写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-9" value="yaml模板&lt;br&gt;(同时写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="600" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yIxE9zjbwi3bGgeXcrSg-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yIxE9zjbwi3bGgeXcrSg-2" target="yIxE9zjbwi3bGgeXcrSg-10" edge="1">
@@ -115,13 +115,13 @@
             <mxPoint x="826" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hzOguXRqXLjZCRekDQa-1" value="&lt;b&gt;功能列表&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1. 列表查询&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp;增-添加模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;3.&amp;nbsp;删-删除模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;4.&amp;nbsp;改-更新模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;5.&amp;nbsp;查-查询模板记录详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3hzOguXRqXLjZCRekDQa-1" value="&lt;b&gt;功能列表&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1. 列表查询&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp;增-添加模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;3.&amp;nbsp;删-删除模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;4.&amp;nbsp;改-更新模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;5.&amp;nbsp;查-查询模板记录详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="105" y="700" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3hzOguXRqXLjZCRekDQa-2" value="&lt;b&gt;模板内容存储&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3hzOguXRqXLjZCRekDQa-2" value="&lt;b&gt;模板内容存储&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="555" width="115" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="3hzOguXRqXLjZCRekDQa-3" value="&lt;b&gt;模板列表管理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3hzOguXRqXLjZCRekDQa-3" value="&lt;b&gt;模板列表管理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="570" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
