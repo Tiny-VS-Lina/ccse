@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T01:24:06.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="STiiBvsBjT_e9v5fNFnp" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T02:34:34.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UZ29YJILboQHleeUht3G" version="21.1.1" type="github">
   <diagram name="架构图" id="3SKIn91DbVfWYXKpx-8t">
-    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="yIxE9zjbwi3bGgeXcrSg-2" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="430" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yIxE9zjbwi3bGgeXcrSg-3" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="125" y="600" width="100" height="60" as="geometry" />
+        <mxCell id="yIxE9zjbwi3bGgeXcrSg-3" value="&lt;p style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;K8s Secret资源&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: Helvetica; white-space: normal; font-size: 13px;&quot;&gt;(etcd)&lt;/b&gt;&lt;/p&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="125" y="600" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yIxE9zjbwi3bGgeXcrSg-7" value="ccse仓库&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(文件前置写入)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="600" width="80" height="60" as="geometry" />
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3hzOguXRqXLjZCRekDQa-1" value="&lt;b&gt;功能列表&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1. 列表查询&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp;增-添加模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;3.&amp;nbsp;删-删除模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;4.&amp;nbsp;改-更新模板记录&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;5.&amp;nbsp;查-查询模板记录详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="660" width="180" height="100" as="geometry" />
+          <mxGeometry x="105" y="700" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3hzOguXRqXLjZCRekDQa-2" value="&lt;b&gt;模板内容存储&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="555" width="115" height="15" as="geometry" />
