@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T09:59:08.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="shncconjg4r-74EgLRJY" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-03T03:12:42.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="v0OZoz2mbv6Y0FbNJ0lN" version="21.1.2" type="github" pages="2">
   <diagram name="架构图" id="E0g1ZqwYHowU_4yn6cGF">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="hE5bcP7linxt11mcylhy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="hE5bcP7linxt11mcylhy-17" vertex="1">
           <mxGeometry x="3" width="507" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="hE5bcP7linxt11mcylhy-2" value="模板记录&lt;br&gt;CRD:template" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="hE5bcP7linxt11mcylhy-17" vertex="1">
+        <mxCell id="hE5bcP7linxt11mcylhy-2" value="模板记录&lt;br&gt;CRD:DeployTemplate" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="hE5bcP7linxt11mcylhy-17" vertex="1">
           <mxGeometry x="209" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hE5bcP7linxt11mcylhy-3" value="yaml模板&lt;br&gt;ConfigMap" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="hE5bcP7linxt11mcylhy-17" vertex="1">
