@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:52:37.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fjx4SPZVQJNkO4Gt8MAG" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:53:34.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QO96lp4GXUb8qqddDFQO" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I3tvPYe_hqUNP-2u3Nn1">
-    <mxGraphModel dx="1647" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="ROSaBn7puyKcPRpW4NTf-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
           <mxGeometry x="-36" y="-10" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ROSaBn7puyKcPRpW4NTf-38" value="OCM组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
+        <mxCell id="ROSaBn7puyKcPRpW4NTf-38" value="OCM组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
           <mxGeometry x="81.5" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ROSaBn7puyKcPRpW4NTf-40" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
@@ -64,7 +64,7 @@
         <mxCell id="ROSaBn7puyKcPRpW4NTf-78" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
           <mxGeometry x="270" y="-10" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ROSaBn7puyKcPRpW4NTf-79" value="OCM组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
+        <mxCell id="ROSaBn7puyKcPRpW4NTf-79" value="OCM组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
           <mxGeometry x="387.5" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ROSaBn7puyKcPRpW4NTf-80" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ROSaBn7puyKcPRpW4NTf-35">
