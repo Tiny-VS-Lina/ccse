@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:39:30.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YCvXQ43Lcc08GR3Be45J" version="21.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:43:37.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="c-FcYXioefHFwVdW5Vj6" version="21.3.3" type="github" pages="2">
   <diagram name="第 1 页" id="I3tvPYe_hqUNP-2u3Nn1">
     <mxGraphModel dx="1373" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,9 +219,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="44DbKVP397lbmY5SjWMF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="44DbKVP397lbmY5SjWMF-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="44DbKVP397lbmY5SjWMF-17" target="44DbKVP397lbmY5SjWMF-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="80" as="sourcePoint" />
@@ -231,7 +228,7 @@
         <mxCell id="44DbKVP397lbmY5SjWMF-15" value="判断租户是否&lt;br&gt;已有独立管控集群" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="44DbKVP397lbmY5SjWMF-16" value="用户在管理平台将工作集群接入管控集群" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="44DbKVP397lbmY5SjWMF-16" value="租户在管理平台将工作集群接入管控集群" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="44DbKVP397lbmY5SjWMF-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;租户开启&lt;br&gt;多集群管理功能&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -264,7 +261,7 @@
         <mxCell id="44DbKVP397lbmY5SjWMF-23" value="已有独立&lt;br&gt;管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="44DbKVP397lbmY5SjWMF-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px;&quot;&gt;种子集群保存租户管理集群信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="44DbKVP397lbmY5SjWMF-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px;&quot;&gt;种子集群保存&lt;br&gt;租户管控集群信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="44DbKVP397lbmY5SjWMF-26" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;种子集群为管理集群自动安装OCM组件&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
