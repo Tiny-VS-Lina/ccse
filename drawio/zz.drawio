@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:42:27.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Yp7XvGnCXfHrLu77aLah" version="21.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-10T08:55:12.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DLR6jlqANj9s5HB0EaiM" version="21.6.7" type="github" pages="7">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -635,14 +635,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="20" width="750" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="aQPy3drh6gbt0HBRZp-T-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="750" height="100" as="geometry" />
+          <mxGeometry x="45" y="130" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aQPy3drh6gbt0HBRZp-T-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="750" height="190" as="geometry" />
+          <mxGeometry x="45" y="250" width="750" height="190" as="geometry" />
         </mxCell>
         <mxCell id="aQPy3drh6gbt0HBRZp-T-1" value="ccse集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
@@ -665,17 +662,8 @@
         <mxCell id="aQPy3drh6gbt0HBRZp-T-14" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-15" value="接入桌面云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="43" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-17" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;集群统一纳管&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;集群管理:&amp;nbsp;开源组件ocm(open cluster management)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;应用管理:&amp;nbsp;开源组件kubevela&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-17" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;集群管理&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="700" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-18" value="接入天翼云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="260" y="43" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-19" value="devops平台联动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="460" y="43" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQPy3drh6gbt0HBRZp-T-22" value="&lt;b&gt;底座能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="60" height="30" as="geometry" />
@@ -683,14 +671,29 @@
         <mxCell id="aQPy3drh6gbt0HBRZp-T-23" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-24" value="&lt;b&gt;Paas化&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="15" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-25" value="服务管理..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-25" value="服务管理等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-26" value="私有化部署..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="650" y="45" width="120" height="60" as="geometry" />
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="45" y="15" width="750" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry y="5" width="750" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-15" value="接入桌面云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry x="25" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-18" value="接入天翼云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry x="215" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-19" value="devops平台联动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry x="415" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-24" value="&lt;b&gt;Paas化&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry x="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-26" value="私有化部署等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="aQPy3drh6gbt0HBRZp-T-27">
+          <mxGeometry x="605" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
