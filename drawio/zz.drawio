@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T03:26:22.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XS1jCLxycN3U1WHiePcs" version="21.6.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-14T03:32:14.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JYo7EFTTjIeQ-c26qQP3" version="21.6.8" type="github" pages="8">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,74 @@
             <mxPoint x="890" y="380" as="sourcePoint" />
             <mxPoint x="620" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cKP7jevXRvUz-pqjye1P" name="ccseone概述">
+    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="130" width="750" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="250" width="750" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-1" value="ccse集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-2" value="第三方云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-3" value="自建集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-4" value="边缘集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-9" value="应用发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-13" value="监控能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-14" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-17" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;集群管理&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-22" value="&lt;b&gt;底座能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-23" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-25" value="服务管理等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-27" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="45" y="15" width="750" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry y="5" width="750" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-15" value="接入桌面云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry x="25" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-18" value="接入天翼云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry x="215" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-19" value="devops平台联动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry x="415" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-24" value="&lt;b&gt;Paas化&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry x="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQPy3drh6gbt0HBRZp-T-26" value="私有化部署等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
+          <mxGeometry x="605" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -508,8 +576,8 @@
             <mxPoint x="550" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJwgcSxw1oKJAuORAh24-48" value="1.&amp;nbsp;开源组件OCM-agent上报子集群状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="285" y="519.75" width="270" height="30" as="geometry" />
+        <mxCell id="aJwgcSxw1oKJAuORAh24-48" value="1.&amp;nbsp;开源组件OCM-agent&lt;br&gt;上报子集群状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="285" y="525.38" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJwgcSxw1oKJAuORAh24-49" value="2.&amp;nbsp;控制器监听租户管控集群中状态更新事件，将子节点状态同步至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontColor=#f2756e;" parent="1" vertex="1">
           <mxGeometry x="37.2" y="275" width="172.8" height="50" as="geometry" />
@@ -657,8 +725,8 @@
             <mxPoint x="380" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19bpDDkQ-nxR79iBvmEa-1" value="2.1.&amp;nbsp;管控集群上-自动安装必要组件并暴露监控指标&lt;br&gt;2.2. 将指定监控指标采集地址存储至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="273.5" height="40" as="geometry" />
+        <mxCell id="19bpDDkQ-nxR79iBvmEa-1" value="2.1.&amp;nbsp;管控集群上-自动安装必要组件并暴露监控指标&lt;br&gt;2.2. 监控指标采集地址存储至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="362" width="273.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="19bpDDkQ-nxR79iBvmEa-2" value="1.租户创建管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="130" height="40" as="geometry" />
@@ -671,173 +739,6 @@
         </mxCell>
         <mxCell id="19bpDDkQ-nxR79iBvmEa-5" value="5.&amp;nbsp;租户通过grafana查询监控数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="580" y="100" width="190" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Uz8rv6Q6JthIJYDG21zT" name="翼起来平台">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="bWTUm8OxRJotwde063D_-3" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="150" y="290" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-4" value="翼起来平台网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="130" width="120.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#006EAF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-4" target="bWTUm8OxRJotwde063D_-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="684.5" y="-40" as="sourcePoint" />
-            <mxPoint x="225.5" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-4" target="bWTUm8OxRJotwde063D_-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="447.5" y="290" as="sourcePoint" />
-            <mxPoint x="375" y="262.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-15" value="前端Web页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="10" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-17" value="登录管理服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-3" target="bWTUm8OxRJotwde063D_-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="260" as="sourcePoint" />
-            <mxPoint x="330" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-15" target="bWTUm8OxRJotwde063D_-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="281" y="160" as="sourcePoint" />
-            <mxPoint x="380" y="160" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-26" value="1. ccseone&lt;br&gt;服务注册至网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="180" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-27" value="2. 前端登录流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="60" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bWTUm8OxRJotwde063D_-28" value="3.1&amp;nbsp;前端通过翼起来网关访问ccseone后台服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
-          <mxGeometry x="220" y="60" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-1" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-2" value="3.2&amp;nbsp;网关校验请求登录态，&amp;nbsp;并生成校验token jwt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
-          <mxGeometry x="274" y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-3" value="3.3 网关转发请求至ccseone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
-          <mxGeometry x="245.75" y="180" width="99.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-5" value="3.4&amp;nbsp;校验jwt-token并获取租户信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
-          <mxGeometry x="245.25" y="250" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-6" value="ccseone服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="120" y="630" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-7" value="翼起来平台网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="630" width="120.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-8" value="ccse服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="630" y="630" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-6" target="C4Y2md6kcWV38RwYOqxW-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="780" as="sourcePoint" />
-            <mxPoint x="390" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-7" target="C4Y2md6kcWV38RwYOqxW-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="760" as="sourcePoint" />
-            <mxPoint x="620" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-11" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="720" width="120.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-7" target="C4Y2md6kcWV38RwYOqxW-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="580" as="sourcePoint" />
-            <mxPoint x="440" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C4Y2md6kcWV38RwYOqxW-14" value="3.5 ccseone根据租户ID获取数据&lt;br&gt;各租户之间资源隔离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
-          <mxGeometry x="184" y="340" width="222" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="cKP7jevXRvUz-pqjye1P" name="ccseone概述">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="130" width="750" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="250" width="750" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-1" value="ccse集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-2" value="第三方云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-3" value="自建集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-4" value="边缘集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-9" value="应用发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-13" value="监控能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-14" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-17" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;集群管理&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="290" width="700" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-22" value="&lt;b&gt;底座能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-23" value="&lt;b&gt;基础能力&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-25" value="服务管理等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="45" y="15" width="750" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry y="5" width="750" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-15" value="接入桌面云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry x="25" y="28" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-18" value="接入天翼云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry x="215" y="28" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-19" value="devops平台联动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry x="415" y="28" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-24" value="&lt;b&gt;Paas化&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry x="25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aQPy3drh6gbt0HBRZp-T-26" value="私有化部署等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="aQPy3drh6gbt0HBRZp-T-27" vertex="1">
-          <mxGeometry x="605" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1015,11 +916,102 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2puhZhRBCmHPAUq4kaAd" name="第 8 页">
+  <diagram id="Uz8rv6Q6JthIJYDG21zT" name="翼起来平台">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bWTUm8OxRJotwde063D_-3" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="150" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-4" value="翼起来平台网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#006EAF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-4" target="bWTUm8OxRJotwde063D_-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684.5" y="-40" as="sourcePoint" />
+            <mxPoint x="225.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-4" target="bWTUm8OxRJotwde063D_-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447.5" y="290" as="sourcePoint" />
+            <mxPoint x="375" y="262.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-15" value="前端Web页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-17" value="登录管理服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-3" target="bWTUm8OxRJotwde063D_-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="sourcePoint" />
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bWTUm8OxRJotwde063D_-15" target="bWTUm8OxRJotwde063D_-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="160" as="sourcePoint" />
+            <mxPoint x="380" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-26" value="1. ccseone&lt;br&gt;服务注册至网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-27" value="2. 前端登录流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWTUm8OxRJotwde063D_-28" value="3.1&amp;nbsp;前端通过翼起来网关访问ccseone后台服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-1" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-2" value="3.2&amp;nbsp;网关校验请求登录态，&amp;nbsp;并生成校验token jwt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
+          <mxGeometry x="274" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-3" value="3.3 网关转发请求至ccseone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
+          <mxGeometry x="245.75" y="180" width="99.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-5" value="3.4&amp;nbsp;校验jwt-token并获取租户信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
+          <mxGeometry x="245.25" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-6" value="ccseone服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="120" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-7" value="翼起来平台网关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="630" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-8" value="ccse服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="630" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-6" target="C4Y2md6kcWV38RwYOqxW-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="780" as="sourcePoint" />
+            <mxPoint x="390" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-7" target="C4Y2md6kcWV38RwYOqxW-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="760" as="sourcePoint" />
+            <mxPoint x="620" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-11" value="鉴权服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="720" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="C4Y2md6kcWV38RwYOqxW-7" target="C4Y2md6kcWV38RwYOqxW-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4Y2md6kcWV38RwYOqxW-14" value="3.5 ccseone根据租户ID获取数据&lt;br&gt;各租户之间资源隔离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="1" vertex="1">
+          <mxGeometry x="184" y="340" width="222" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
