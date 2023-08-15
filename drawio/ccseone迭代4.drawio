@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T08:57:41.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Db_-vlEaeIAyHbvHs5Bb" version="21.6.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:07:40.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7X_NVSaxiMB9i9GBQUVa" version="21.6.8" type="github" pages="9">
   <diagram name="备份方案一" id="dZijaMK6ApFvlrBsASXL">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1190,49 +1190,49 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kOYZHtLe4SRURcXeklFX-1" value="ccseone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="503" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-2" value="ccse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-6" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="630" y="440" width="146" height="70" as="geometry" />
+          <mxGeometry x="490" y="420" width="146" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-2" target="kOYZHtLe4SRURcXeklFX-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="510" as="sourcePoint" />
-            <mxPoint x="780" y="460" as="targetPoint" />
+            <mxPoint x="590" y="490" as="sourcePoint" />
+            <mxPoint x="640" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-1" target="kOYZHtLe4SRURcXeklFX-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="430" as="sourcePoint" />
-            <mxPoint x="510" y="380" as="targetPoint" />
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-9" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="160" height="80" as="geometry" />
+          <mxGeometry x="130" y="420" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-2" target="kOYZHtLe4SRURcXeklFX-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="380" as="sourcePoint" />
-            <mxPoint x="740" y="330" as="targetPoint" />
+            <mxPoint x="550" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-1" target="kOYZHtLe4SRURcXeklFX-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="350" as="sourcePoint" />
-            <mxPoint x="360" y="490" as="targetPoint" />
+            <mxPoint x="130" y="330" as="sourcePoint" />
+            <mxPoint x="220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-12" value="Job/Cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-13" value="&lt;b&gt;备份对象&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="663" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="523" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-14" value="&lt;b&gt;自动清理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="663" y="555" width="80" height="30" as="geometry" />
+          <mxGeometry x="523" y="555" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
