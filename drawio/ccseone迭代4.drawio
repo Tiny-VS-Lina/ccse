@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T09:07:40.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7X_NVSaxiMB9i9GBQUVa" version="21.6.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-15T10:12:39.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7ZWij0vc2trz-yJokx7_" version="21.6.8" type="github" pages="9">
   <diagram name="备份方案一" id="dZijaMK6ApFvlrBsASXL">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1185,7 +1185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KaF1YRrSEE7ZLKkVkNbL" name="第 9 页">
-    <mxGraphModel dx="1481" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1225,14 +1225,11 @@
             <mxPoint x="220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kOYZHtLe4SRURcXeklFX-12" value="Job/Cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="510" width="80" height="30" as="geometry" />
+        <mxCell id="kOYZHtLe4SRURcXeklFX-13" value="&lt;b&gt;备份文件&lt;br&gt;(&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;自动清理诉求&lt;/b&gt;&lt;b&gt;)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kOYZHtLe4SRURcXeklFX-13" value="&lt;b&gt;备份对象&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="523" y="500" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kOYZHtLe4SRURcXeklFX-14" value="&lt;b&gt;自动清理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="523" y="555" width="80" height="30" as="geometry" />
+        <mxCell id="kOYZHtLe4SRURcXeklFX-16" value="&lt;b&gt;备份任务/计划&lt;/b&gt;: Job/Cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
