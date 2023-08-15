@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T02:25:24.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-ynWamAZvQc4YL_aBYAF" version="21.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-15T08:56:57.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iG1SIWYsKtgzbcjlytjw" version="21.6.8" type="github" pages="9">
   <diagram name="备份方案一" id="dZijaMK6ApFvlrBsASXL">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1180,6 +1180,59 @@
         </mxCell>
         <mxCell id="p59Pmr3C57fp8Lst9qcp-9" value="2.4 监听kubevela - application-job【创建】" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UOJyId8xZsBP78-SlB1S-1" vertex="1">
           <mxGeometry x="283" y="327.5" width="234.19" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KaF1YRrSEE7ZLKkVkNbL" name="第 9 页">
+    <mxGraphModel dx="1481" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kOYZHtLe4SRURcXeklFX-1" value="ccseone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-2" value="ccse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-6" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-2" target="kOYZHtLe4SRURcXeklFX-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="510" as="sourcePoint" />
+            <mxPoint x="820" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-1" target="kOYZHtLe4SRURcXeklFX-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="430" as="sourcePoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-9" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-2" target="kOYZHtLe4SRURcXeklFX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="380" as="sourcePoint" />
+            <mxPoint x="780" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kOYZHtLe4SRURcXeklFX-1" target="kOYZHtLe4SRURcXeklFX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-12" value="Job/Cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-13" value="&lt;b&gt;备份对象&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="703" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYZHtLe4SRURcXeklFX-14" value="&lt;b&gt;自动清理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="703" y="555" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
