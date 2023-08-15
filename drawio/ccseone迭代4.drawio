@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T10:12:51.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q7VBnhjwiLGG8bQVW6eP" version="21.6.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-15T10:13:21.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zc9Yk3oi4v7Ce1h5mt2_" version="21.6.8" type="github" pages="9">
   <diagram name="备份方案一" id="dZijaMK6ApFvlrBsASXL">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1189,10 +1189,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kOYZHtLe4SRURcXeklFX-1" value="ccseone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kOYZHtLe4SRURcXeklFX-1" value="ccseone备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOYZHtLe4SRURcXeklFX-2" value="ccse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kOYZHtLe4SRURcXeklFX-2" value="ccse备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kOYZHtLe4SRURcXeklFX-6" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
