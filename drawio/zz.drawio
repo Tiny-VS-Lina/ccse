@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T09:02:49.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ogf8iM7ZaT4cCQXS_AKC" version="21.6.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-22T09:03:48.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cGoKbhTJroAKF_zSW3yO" version="21.6.8" type="github" pages="11">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1092,12 +1092,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P9CYVsMy9OTcgHLx20hL" name="第 11 页">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="290" width="390" height="230" as="geometry" />
+          <mxGeometry y="300" width="390" height="210" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-2" value="argocd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="130" height="60" as="geometry" />
@@ -1109,40 +1109,40 @@
           <mxGeometry x="30" y="430" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="560" width="400" height="130" as="geometry" />
+          <mxGeometry y="530" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-9" value="open-cluster-management-agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="610" width="130" height="60" as="geometry" />
+          <mxGeometry x="30" y="570" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-10" value="工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="534" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-11" value="管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="302" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-14" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-15" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="230" y="610" width="130" height="60" as="geometry" />
+          <mxGeometry x="230" y="570" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="30" width="390" height="240" as="geometry" />
+          <mxGeometry x="5" y="50" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-17" value="ccseone-frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="130" height="60" as="geometry" />
+          <mxGeometry x="220" y="90" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-18" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="70" width="130" height="60" as="geometry" />
+          <mxGeometry x="50" y="90" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-19" value="ccseone-controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="130" height="60" as="geometry" />
+          <mxGeometry x="50" y="190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-20" value="ccseone-agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="170" width="130" height="60" as="geometry" />
+          <mxGeometry x="220" y="190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYRMP9UQd_XpIWbfX9qb-21" value="ccseone服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="20" y="50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
