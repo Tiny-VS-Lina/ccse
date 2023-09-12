@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T07:30:29.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CphKp8pbEh8yfsRvs2D-" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T07:31:37.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pDmQpQW8mMZ6EuYZON-U" version="21.7.0" type="github">
   <diagram name="第 1 页" id="6mjsTrui0T2yqNCnwQ9Z">
-    <mxGraphModel dx="1324" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,8 +76,8 @@
             <mxPoint x="430" y="643" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aq65J9v7RtVeyPqquBQ7-27" value="种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="443" width="60" height="30" as="geometry" />
+        <mxCell id="Aq65J9v7RtVeyPqquBQ7-27" value="种子集群-k8s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="443" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aq65J9v7RtVeyPqquBQ7-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aq65J9v7RtVeyPqquBQ7-16" target="Aq65J9v7RtVeyPqquBQ7-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -196,8 +196,8 @@
             <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aq65J9v7RtVeyPqquBQ7-39" value="租户N管控集群N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Aq65J9v7RtVeyPqquBQ7-60">
-          <mxGeometry x="60" y="30" width="100" height="30" as="geometry" />
+        <mxCell id="Aq65J9v7RtVeyPqquBQ7-39" value="租户N管控集群N - k8s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Aq65J9v7RtVeyPqquBQ7-60">
+          <mxGeometry x="60" y="30" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
