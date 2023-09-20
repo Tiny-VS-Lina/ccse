@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T02:54:54.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="R_Xo7wS8Z2ZysK0bkwbG" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-20T02:56:54.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bVp0exoCH8VBdAHAW_qT" version="21.7.5" type="github" pages="3">
   <diagram name="架构图 的副本" id="YkC_as2CN-LdHwmDaywi">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
           <mxGeometry x="40" y="710" width="1050" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YdbnrFBzN2kSSxiwB33p-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;问题&lt;/font&gt;&lt;/b&gt;:&lt;br&gt;1.&amp;nbsp; 执行基线工具在所有节点上执行?&lt;br&gt;2.&amp;nbsp; 风险评估表-&amp;nbsp;填写&amp;nbsp; &amp;nbsp;部署集群信息?&amp;nbsp; &amp;nbsp;节点IP ?&amp;nbsp; &amp;nbsp;deployment信息&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;种子集群信息?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="830" width="480" height="120" as="geometry" />
+          <mxGeometry x="40" y="840" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
