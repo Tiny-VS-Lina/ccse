@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T09:45:03.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SrMMq8QanauYabYipB3X" version="21.8.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-09-30T09:45:22.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="F5OBe7ODhwOmGMOpaKT6" version="21.8.0" type="github" pages="14">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1220,7 +1220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-28" value="资源分发组件&lt;br&gt;kubevela application" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
-          <mxGeometry x="400" y="400" width="143" height="50" as="geometry" />
+          <mxGeometry x="394" y="400" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-29" value="CronbJob" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
           <mxGeometry x="581" y="397.5" width="116" height="55" as="geometry" />
@@ -1274,7 +1274,7 @@
           <mxGeometry x="584" y="517" width="232" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iORrW6Zfv8Ivx_J7rYA1-1" value="Job&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;基于velero实现&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;k8s资源备份" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
-          <mxGeometry x="414" y="555" width="116" height="55" as="geometry" />
+          <mxGeometry x="407.5" y="555" width="116" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
