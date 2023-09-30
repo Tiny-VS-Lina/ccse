@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T09:43:53.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="O4eX_RfOYQPDn0yxv3ov" version="21.8.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-09-30T09:44:23.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iprrS8yN4DJ7lBbaknmY" version="21.8.0" type="github" pages="14">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1160,7 +1160,7 @@
           <mxGeometry x="411.5" y="552" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-6" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
-          <mxGeometry x="628.75" y="557" width="100" height="55" as="geometry" />
+          <mxGeometry x="628.75" y="555" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="HjH0mQzzp4yIndrBjqOH-1" source="HjH0mQzzp4yIndrBjqOH-5" target="HjH0mQzzp4yIndrBjqOH-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1265,7 +1265,7 @@
           <mxGeometry x="250" y="340" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-38" value="4.1&amp;nbsp;在hub集群创建定时任务-cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
-          <mxGeometry x="564" y="320" width="220" height="30" as="geometry" />
+          <mxGeometry x="558" y="300" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-39" value="4.2&amp;nbsp;定期创建资源分发应用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
           <mxGeometry x="564" y="452.5" width="150" height="30" as="geometry" />
@@ -1274,7 +1274,7 @@
           <mxGeometry x="510" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-41" value="3.基于开源组件velero实现k8s资源备份&lt;br&gt;创建任务进行数据备份/恢复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="HjH0mQzzp4yIndrBjqOH-1">
-          <mxGeometry x="590" y="517" width="232" height="40" as="geometry" />
+          <mxGeometry x="584" y="517" width="232" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
