@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T08:32:09.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="k1xm4ZAxMteDwv6e-e8f" version="21.8.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-09-30T08:32:34.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r_3NOjtNBMILeCKnVy18" version="21.8.0" type="github" pages="13">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="全局命名空间 的副本" id="m70_s0OWs51dSUBbA0XI">
+  <diagram name="云平台-多集群管理" id="m70_s0OWs51dSUBbA0XI">
     <mxGraphModel dx="910" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KOyOhocowdyurcYDT3u9-0" />
@@ -669,7 +669,7 @@
           <mxGeometry x="471" y="596.75" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KOyOhocowdyurcYDT3u9-39" value="2.1&amp;nbsp;控制器在管控集群创建资源分发应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontColor=#e85c54;fontSize=14;" vertex="1" parent="KOyOhocowdyurcYDT3u9-1">
-          <mxGeometry x="302" y="305" width="250" height="25" as="geometry" />
+          <mxGeometry x="302" y="310" width="250" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KOyOhocowdyurcYDT3u9-40" value="2.2&amp;nbsp;管控集群下发k8s资源至指定工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontColor=#e85c54;fontSize=16;" vertex="1" parent="KOyOhocowdyurcYDT3u9-1">
           <mxGeometry x="97" y="500" width="190" height="30.88" as="geometry" />
