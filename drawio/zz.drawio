@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T09:38:13.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hNO8HGjBRS5R6WtFZMiZ" version="22.0.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-10-01T15:00:29.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wUdmQoyvoaGdShCS80Y2" version="22.0.0" type="github" pages="16">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="专利-作业管理" id="Q7T0N1ciHbzVEIovZrfF">
-    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-0" />
         <mxCell id="HjH0mQzzp4yIndrBjqOH-1" parent="HjH0mQzzp4yIndrBjqOH-0" />
@@ -444,10 +444,10 @@
         <mxCell id="HjH0mQzzp4yIndrBjqOH-11" value="云平台-数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="593.75" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HjH0mQzzp4yIndrBjqOH-12" value="单个作业" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
+        <mxCell id="HjH0mQzzp4yIndrBjqOH-12" value="子作业" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="608.75" y="240" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HjH0mQzzp4yIndrBjqOH-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HjH0mQzzp4yIndrBjqOH-1" source="HjH0mQzzp4yIndrBjqOH-25" target="HjH0mQzzp4yIndrBjqOH-12" edge="1">
+        <mxCell id="HjH0mQzzp4yIndrBjqOH-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HjH0mQzzp4yIndrBjqOH-1" source="HjH0mQzzp4yIndrBjqOH-25" target="HjH0mQzzp4yIndrBjqOH-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="47" y="270" as="sourcePoint" />
             <mxPoint x="187" y="220" as="targetPoint" />
@@ -510,7 +510,7 @@
             <mxPoint x="760" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjH0mQzzp4yIndrBjqOH-37" value="4.2 同步作业记录和状态至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
+        <mxCell id="HjH0mQzzp4yIndrBjqOH-37" value="4.2 同步子作业及状态至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="270" y="330" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjH0mQzzp4yIndrBjqOH-38" value="2.1&amp;nbsp;在管控集群创建定时任务-cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
@@ -536,6 +536,294 @@
         </mxCell>
         <mxCell id="C4QJqfBCTQoreCsagW3p-2" value="4.1同步作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="500" y="505" width="173.75" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="专利-作业管理 的副本" id="NnvgReqnuJCfcFeunSt5">
+    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-0" />
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-1" parent="l_B1UML-Fia4BOgRjwO9-0" />
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="130" width="460" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="370" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="540" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="583.75" y="150" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-6" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="740" y="555" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-31" target="l_B1UML-Fia4BOgRjwO9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531.5" y="582" as="sourcePoint" />
+            <mxPoint x="727" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-8" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="401" y="160" width="124.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-8" target="l_B1UML-Fia4BOgRjwO9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553" y="130" as="sourcePoint" />
+            <mxPoint x="273" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-10" value="定时作业" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="618.75" y="178" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-11" value="云平台-数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="593.75" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-12" value="单个作业" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="608.75" y="240" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-14" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-20" target="gC7mXDmEUWa9Oq_LSW2D-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.5" y="600" as="sourcePoint" />
+            <mxPoint x="471.5" y="552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-15" value="工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-17" target="l_B1UML-Fia4BOgRjwO9-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287" y="450" as="sourcePoint" />
+            <mxPoint x="477" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-17" value="ccseone-controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="405.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-17" target="l_B1UML-Fia4BOgRjwO9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="300" as="sourcePoint" />
+            <mxPoint x="327" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-20" value="资源分发组件&lt;br&gt;kubevela application" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="394" y="400" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-23" value="管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-24" value="1.&amp;nbsp;租户通过web页面管理备份中心&lt;br&gt;&amp;nbsp; &amp;nbsp; 创建备份计划和恢复任务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="538.5" y="80" width="201" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-25" value="web页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="405.5" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="l_B1UML-Fia4BOgRjwO9-25" target="l_B1UML-Fia4BOgRjwO9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="280" as="sourcePoint" />
+            <mxPoint x="760" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-27" value="4.2 同步作业记录和状态至种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="790" y="410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-28" value="2.1&amp;nbsp;在管控集群创建定时任务-cronjob" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="590" y="330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-29" value="2.2&amp;nbsp;定期创建资源分发应用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="564" y="452.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-30" value="3.下发作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="274.5" y="490" width="191" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-31" value="Job" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="573.25" y="555" width="110.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-32" value="&lt;b&gt;云平台-种子集群&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="330" y="128" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_B1UML-Fia4BOgRjwO9-34" value="4.1同步作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="490" y="495" width="173.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gC7mXDmEUWa9Oq_LSW2D-0" value="CronJob" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="l_B1UML-Fia4BOgRjwO9-1">
+          <mxGeometry x="407.5" y="555" width="118" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gC7mXDmEUWa9Oq_LSW2D-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="l_B1UML-Fia4BOgRjwO9-1" source="gC7mXDmEUWa9Oq_LSW2D-0" target="l_B1UML-Fia4BOgRjwO9-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="550" as="sourcePoint" />
+            <mxPoint x="760" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4prqTVY2i4meqeNK8-HV" name="第 15 页">
+    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="375" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="515" width="530" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="185" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-4" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-4" target="aI0DZL9eFSnwTTHmNcMk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="145" as="sourcePoint" />
+            <mxPoint x="266" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-6" value="备份计划" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="215" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-7" value="种子集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-31" target="aI0DZL9eFSnwTTHmNcMk-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="435" as="sourcePoint" />
+            <mxPoint x="450" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-10" target="aI0DZL9eFSnwTTHmNcMk-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="385" as="sourcePoint" />
+            <mxPoint x="470" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-10" value="ccseone-controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-10" target="aI0DZL9eFSnwTTHmNcMk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="315" as="sourcePoint" />
+            <mxPoint x="320" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-12" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="545" as="sourcePoint" />
+            <mxPoint x="520" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="725" />
+              <mxPoint x="810" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-13" value="备份任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="295" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-14" value="网络连通性、&amp;nbsp;&lt;br&gt;依赖工作集群上报，不可控" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="637" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-15" value="ccse_backup/job&lt;br&gt;(velero改造)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-16" value="OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="637" y="785" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-17" value="hostPath" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="619" y="590" width="91" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-15" target="aI0DZL9eFSnwTTHmNcMk-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="637" y="625" as="sourcePoint" />
+            <mxPoint x="757" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-19" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="525" width="97" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-20" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="595" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-21" value="ccse-ext-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="695" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-22" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-20" target="aI0DZL9eFSnwTTHmNcMk-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="845" as="sourcePoint" />
+            <mxPoint x="497" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-21" target="aI0DZL9eFSnwTTHmNcMk-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="627" y="765" as="sourcePoint" />
+            <mxPoint x="677" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-24" value="ccse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-24" target="aI0DZL9eFSnwTTHmNcMk-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="845" as="sourcePoint" />
+            <mxPoint x="297" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-15" target="aI0DZL9eFSnwTTHmNcMk-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677" y="735" as="sourcePoint" />
+            <mxPoint x="727" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-15" target="aI0DZL9eFSnwTTHmNcMk-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="527" y="855" as="sourcePoint" />
+            <mxPoint x="577" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-28" value="工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-29" value="ccse_backup/cronjob&lt;br&gt;(velero改造)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-21" target="aI0DZL9eFSnwTTHmNcMk-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="735" as="sourcePoint" />
+            <mxPoint x="237" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-31" value="资源分发组件&lt;br&gt;kubevela application" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="395" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-32" value="监听job创建事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-32" target="aI0DZL9eFSnwTTHmNcMk-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="525" as="sourcePoint" />
+            <mxPoint x="560" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="420" />
+              <mxPoint x="760" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-34" value="hub集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-32" target="aI0DZL9eFSnwTTHmNcMk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="365" as="sourcePoint" />
+            <mxPoint x="670" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aI0DZL9eFSnwTTHmNcMk-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="aI0DZL9eFSnwTTHmNcMk-10" target="aI0DZL9eFSnwTTHmNcMk-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="365" as="sourcePoint" />
+            <mxPoint x="400" y="315" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
