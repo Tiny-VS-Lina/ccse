@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T15:00:29.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wUdmQoyvoaGdShCS80Y2" version="22.0.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-01T15:00:51.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="M5cFx-Y6T220fTU6N_C2" version="22.0.0" type="github" pages="16">
   <diagram name="模板仓库-old" id="Vcu2Aqr-mU0hvWA8rodl">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -519,8 +519,8 @@
         <mxCell id="HjH0mQzzp4yIndrBjqOH-39" value="2.2&amp;nbsp;定期创建资源分发应用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#b85450;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="564" y="452.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HjH0mQzzp4yIndrBjqOH-41" value="3.下发作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
-          <mxGeometry x="274.5" y="482.5" width="191" height="40" as="geometry" />
+        <mxCell id="HjH0mQzzp4yIndrBjqOH-41" value="3.下发子作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
+          <mxGeometry x="260" y="482.5" width="205.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iORrW6Zfv8Ivx_J7rYA1-1" value="Job" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="386.5" y="555" width="153.5" height="55" as="geometry" />
@@ -534,7 +534,7 @@
             <mxPoint x="502" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C4QJqfBCTQoreCsagW3p-2" value="4.1同步作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
+        <mxCell id="C4QJqfBCTQoreCsagW3p-2" value="4.1同步子作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" parent="HjH0mQzzp4yIndrBjqOH-1" vertex="1">
           <mxGeometry x="500" y="505" width="173.75" height="30" as="geometry" />
         </mxCell>
       </root>
