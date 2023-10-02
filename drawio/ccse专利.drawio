@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T08:51:15.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="55_VPeNgEfEycxAR90D0" version="21.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-02T01:46:59.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ADdofkyoIsKPrLBNmGZs" version="22.0.0" type="github" pages="4">
   <diagram name="第 1 页" id="I3tvPYe_hqUNP-2u3Nn1">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,7 +589,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8tZr9dpsVNvndVHiCW00" name="第 2 页">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -661,6 +661,107 @@
             <mxPoint x="450" y="570" as="sourcePoint" />
             <mxPoint x="500" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 2 页 的副本" id="N0Ymma5nV0_T8caTO8zg">
+    <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-0" />
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-1" parent="SkI2_AHrizgJi4PBvMRX-0" />
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-5" target="SkI2_AHrizgJi4PBvMRX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="80" as="sourcePoint" />
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-3" value="判断租户是否&lt;br&gt;已有独立管控集群" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="150" y="150" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-4" value="租户在管理平台将工作集群接入管控集群" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="170" y="450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-5" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="180" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-3" target="SkI2_AHrizgJi4PBvMRX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-7" value="&lt;p&gt;请求容器平台&lt;br&gt;为租户创建&lt;br&gt;独立管控集群&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="360" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-3" target="SkI2_AHrizgJi4PBvMRX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-7" target="SkI2_AHrizgJi4PBvMRX-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="185" as="sourcePoint" />
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-10" value="无独立管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="360" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-11" value="已有独立&lt;br&gt;管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="170" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-12" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px;&quot;&gt;种子集群保存&lt;br&gt;租户管控集群信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="360" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-13" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;种子集群为管理集群自动安装OCM组件&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="360" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-12" target="SkI2_AHrizgJi4PBvMRX-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="480" as="sourcePoint" />
+            <mxPoint x="520" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-13" target="SkI2_AHrizgJi4PBvMRX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="480" as="sourcePoint" />
+            <mxPoint x="410" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="185" y="555" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkI2_AHrizgJi4PBvMRX-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="SkI2_AHrizgJi4PBvMRX-4" target="SkI2_AHrizgJi4PBvMRX-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-0" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="570" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-1" value="&lt;p&gt;租户通过web管理页面搭建多云多集群的管理架构&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="560" y="160" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="qfiDvtgK_S24mY7NB-kB-0" target="qfiDvtgK_S24mY7NB-kB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="110" as="sourcePoint" />
+            <mxPoint x="245" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-3" value="&lt;p&gt;租户通过web管理页面管理定时作业&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="560" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SkI2_AHrizgJi4PBvMRX-1" source="qfiDvtgK_S24mY7NB-kB-1" target="qfiDvtgK_S24mY7NB-kB-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="130" as="sourcePoint" />
+            <mxPoint x="635" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfiDvtgK_S24mY7NB-kB-5" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SkI2_AHrizgJi4PBvMRX-1">
+          <mxGeometry x="560" y="350" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
