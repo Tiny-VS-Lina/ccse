@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T07:50:03.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YdYiswlMnJv5ZxneVDzM" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-16T07:51:19.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ag2hU6cYZWZfsaMaEmL4" version="22.0.4" type="github" pages="7">
   <diagram name="架构图 的副本" id="YkC_as2CN-LdHwmDaywi">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1120,7 +1120,7 @@
         <mxCell id="fDlWIQGdfS_CTvtq8gIX-17" value="4.通过跳板机登录&lt;br&gt;业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-18" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;说明&lt;/b&gt;: 1.&amp;nbsp; 跳板机经过4A平台纳管【见截图-跳板机4A截图】&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp; 必须通过指定跳板机才能登录业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-18" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;说明&lt;/b&gt;: 1.&amp;nbsp; 跳板机通过4A平台纳管【见截图-跳板机4A截图】&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp; 必须通过指定跳板机才能登录业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="555" width="620" height="65" as="geometry" />
         </mxCell>
       </root>
