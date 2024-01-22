@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T07:05:17.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vxh1NKAyNtolcEPzz4rF" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T07:08:44.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tB8qExvZeblBYkpg1sQf" version="22.1.21" type="github">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
-    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,7 @@
         <mxCell id="v8pVnGznMYh4SUHGBopm-70" value="数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v8pVnGznMYh4SUHGBopm-71" value="问题:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 网络链路2&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 监听全网工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v8pVnGznMYh4SUHGBopm-71" value="问题:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 网络链路2 -&amp;nbsp;代理&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 监听全网工作集群" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="985" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="v8pVnGznMYh4SUHGBopm-72" value="问题:&amp;nbsp; 数据两次存储&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;agent更新问题" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -256,7 +256,7 @@
         <mxCell id="v8pVnGznMYh4SUHGBopm-73" value="问题:&amp;nbsp; agent更新问题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 网络链路1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="400" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v8pVnGznMYh4SUHGBopm-74" value="问题:&amp;nbsp;&amp;nbsp;网络链路1&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 网络链路2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v8pVnGznMYh4SUHGBopm-74" value="问题:&amp;nbsp;&amp;nbsp;网络链路1&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 网络链路2 -&amp;nbsp;代理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="670" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8pVnGznMYh4SUHGBopm-75" value="优点: agent仅处理事件，尽可能不更新" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
