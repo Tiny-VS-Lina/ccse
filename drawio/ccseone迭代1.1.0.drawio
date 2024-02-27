@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T01:56:02.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8LbBpYrjqcGfiO7Y6sQ8" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-27T02:13:28.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J85XWGu59LgRvssfmsWP" version="22.1.21" type="github" pages="3">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,38 +308,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yo2vscNkxYr83g6uuiDg-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="120" width="820" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121" y="170" width="450" height="190" as="geometry" />
+          <mxGeometry x="14" y="210" width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="240" width="429" height="170" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-1" value="apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-3" value="kubevela-core&lt;br&gt;(controller)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-5" value="vela&lt;br&gt;(client)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yo2vscNkxYr83g6uuiDg-6" value="pkg&lt;br&gt;(addon、policy...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="yo2vscNkxYr83g6uuiDg-6" value="pkg&lt;br&gt;(addon、definition...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="346" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-10" value="代码仓库workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17" y="180" width="84" height="170" as="geometry" />
+          <mxGeometry x="31" y="240" width="84" height="170" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-11" value="代码仓库pkg&lt;br&gt;（commlib)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="380" width="550" height="60" as="geometry" />
+          <mxGeometry x="35" y="440" width="539" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-12" value="代码仓库kubevela" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="131" y="170" width="100" height="30" as="geometry" />
+          <mxGeometry x="145" y="233" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-14" value="代码仓库kubevela-core-api&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-16" value="代码仓库&lt;br&gt;catalog&lt;br&gt;(addon-yaml)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="295" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yo2vscNkxYr83g6uuiDg-17" value="cluster-gateway&lt;br&gt;velaux&lt;br&gt;..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="295" width="100" height="55" as="geometry" />
+          <mxGeometry x="724" y="355" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-22" value="kubevela" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-23" value="cluster-gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="530" width="799" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-24" value="open-cluster-management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="600" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-25" value="velaux" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-30" value="k8s集群1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-32" value="k8s集群2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-33" value="k8s集群N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-34" value="CI系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo2vscNkxYr83g6uuiDg-36" value="ccseone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
