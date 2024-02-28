@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T08:02:42.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KQnBNDawvkHPBix8HD7n" version="23.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-28T08:04:42.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J4eqiCoYD90wrrhkefyU" version="23.1.7" type="github" pages="4">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,7 +463,7 @@
             <mxPoint x="625" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IR5orGgrEmDz7f04yCVr-26" value="&lt;b&gt;方案一:&amp;nbsp;使用注册中心 -&amp;nbsp;管理服务pod&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IR5orGgrEmDz7f04yCVr-26" value="&lt;b&gt;方向一:&amp;nbsp;使用注册中心 -&amp;nbsp;管理服务pod&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="395" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IR5orGgrEmDz7f04yCVr-27" value="&lt;b&gt;反向代理&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -499,7 +499,7 @@
             <mxPoint x="635" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IR5orGgrEmDz7f04yCVr-39" value="&lt;b&gt;方案二:&amp;nbsp;使用service -&amp;nbsp;管理服务pod&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IR5orGgrEmDz7f04yCVr-39" value="&lt;b&gt;方向二:&amp;nbsp;使用service -&amp;nbsp;管理服务pod&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="755" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IR5orGgrEmDz7f04yCVr-42" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
