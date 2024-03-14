@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:07:36.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="r5xOBzvg0c3Q7OjtbrfN" version="24.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:09:03.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ea9t9n3TaV1NOY5aDd1C" version="24.0.6" type="github" pages="6">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -668,10 +668,10 @@
         <mxCell id="cJdF4HLnttCnf_F56-2_-19" value="crd:&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 10px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;managedcluster&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="700" y="445" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cJdF4HLnttCnf_F56-2_-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cJdF4HLnttCnf_F56-2_-10">
+        <mxCell id="cJdF4HLnttCnf_F56-2_-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="544.5" as="sourcePoint" />
-            <mxPoint x="1250" y="540" as="targetPoint" />
+            <mxPoint x="230" y="545" as="sourcePoint" />
+            <mxPoint x="1410" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cJdF4HLnttCnf_F56-2_-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.014;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJdF4HLnttCnf_F56-2_-4" target="cJdF4HLnttCnf_F56-2_-18">
@@ -742,6 +742,12 @@
         </mxCell>
         <mxCell id="cJdF4HLnttCnf_F56-2_-44" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; text-align: start; text-wrap: nowrap; font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;placement&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap;&quot;&gt;[controller]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cJdF4HLnttCnf_F56-2_-46" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;管控集群&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="435" y="505" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJdF4HLnttCnf_F56-2_-47" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;工作集群&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="435" y="545" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
