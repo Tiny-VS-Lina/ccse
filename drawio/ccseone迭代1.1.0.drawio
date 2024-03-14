@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:06:00.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="n6z4ER3SrqyL_lSTzzp6" version="24.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:07:36.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="r5xOBzvg0c3Q7OjtbrfN" version="24.0.6" type="github" pages="6">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -710,14 +710,14 @@
         <mxCell id="cJdF4HLnttCnf_F56-2_-29" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;work&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;[agent]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="600" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cJdF4HLnttCnf_F56-2_-30" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;registration-operator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="130" height="30" as="geometry" />
+        <mxCell id="cJdF4HLnttCnf_F56-2_-30" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;组件安装:registration-operator&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="360" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cJdF4HLnttCnf_F56-2_-31" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;registration&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="340" width="100" height="30" as="geometry" />
+        <mxCell id="cJdF4HLnttCnf_F56-2_-31" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;集群注册:registration&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cJdF4HLnttCnf_F56-2_-32" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;work&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="340" width="70" height="30" as="geometry" />
+        <mxCell id="cJdF4HLnttCnf_F56-2_-32" value="&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;应用下发:work&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cJdF4HLnttCnf_F56-2_-33" value="crd:&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;manifestwork&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="445" width="120" height="50" as="geometry" />
