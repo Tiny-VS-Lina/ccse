@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T06:56:45.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T_M0Hd8WDWcZmr4WAsCm" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-22T07:09:09.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zYB-EP-PEeifxdtpLvzZ" version="24.0.7" type="github" pages="7">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gTwwY31DMYCHpYCalHhx" name="ocm-gateway-manager-addon">
-    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,20 +937,11 @@
             <mxPoint x="1420" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJm1n5G5EaOj9mcpznIt-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap;&quot;&gt;registration&lt;/span&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;[controller]&lt;/span&gt;&lt;div&gt;addon-manager&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="290" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PJm1n5G5EaOj9mcpznIt-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap;&quot;&gt;registration&lt;/span&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;[agent]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="850" width="110" height="45" as="geometry" />
+        <mxCell id="PJm1n5G5EaOj9mcpznIt-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap;&quot;&gt;registration&lt;/span&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;[agent]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;addon&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WX2qrqyccbtvnOghxFVv-1" value="csr" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="535" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Sz2IMJt7L63vWRlgXKPs-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-1" target="WX2qrqyccbtvnOghxFVv-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1680" y="710" as="sourcePoint" />
-            <mxPoint x="1730" y="660" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Sz2IMJt7L63vWRlgXKPs-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.743;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="WX2qrqyccbtvnOghxFVv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -959,7 +950,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="blprlR0VQW_Dgi3MRYtd-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;secret:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;managed-serviceaccount-hub-kubeconfig&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="847.5" width="220" height="50" as="geometry" />
+          <mxGeometry x="1175" y="850" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="blprlR0VQW_Dgi3MRYtd-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="blprlR0VQW_Dgi3MRYtd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -976,8 +967,8 @@
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-4" value="&lt;b&gt;集群账号&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="360" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-7" value="签发&amp;amp;审批" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="420" width="80" height="30" as="geometry" />
+        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-7" value="addon-manager&lt;div&gt;签发&amp;amp;审批&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1548" y="380" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-8" value="根据已审批csr保存至secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1578" y="725" width="62" height="75" as="geometry" />
@@ -1003,11 +994,12 @@
             <mxPoint x="1670" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDK8euxpWgk9Mg59eGID-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="8bUJaUnfSX31_LuBoPgA-8">
+        <mxCell id="JDK8euxpWgk9Mg59eGID-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="8bUJaUnfSX31_LuBoPgA-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="630" as="sourcePoint" />
             <mxPoint x="1700" y="580" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1600" y="850" />
               <mxPoint x="1460" y="850" />
               <mxPoint x="1460" y="260" />
             </Array>
@@ -1015,6 +1007,12 @@
         </mxCell>
         <mxCell id="JDK8euxpWgk9Mg59eGID-4" value="创建csr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="730" width="46" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="JDK8euxpWgk9Mg59eGID-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fpJt6yyAM4Vwyxcqyrv2-5" target="WX2qrqyccbtvnOghxFVv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="390" as="sourcePoint" />
+            <mxPoint x="1590" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
