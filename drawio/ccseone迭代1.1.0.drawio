@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T07:09:09.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zYB-EP-PEeifxdtpLvzZ" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-22T07:14:16.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BUHwRTkcR_xltNdVy78N" version="24.0.7" type="github" pages="7">
   <diagram name="第 1 页" id="q76jVNdIW2SFJ2JcnUCo">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gTwwY31DMYCHpYCalHhx" name="ocm-gateway-manager-addon">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,8 +933,8 @@
         </mxCell>
         <mxCell id="mBDaqmbwcMA2Amom7aKQ-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1424" y="910" as="sourcePoint" />
-            <mxPoint x="1420" y="210" as="targetPoint" />
+            <mxPoint x="1419" y="910" as="sourcePoint" />
+            <mxPoint x="1415" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PJm1n5G5EaOj9mcpznIt-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap;&quot;&gt;registration&lt;/span&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;[agent]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 22, 26); font-family: Arial, &amp;quot;Segoe UI&amp;quot;, Helvetica, sans-serif; font-size: 13px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;addon&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -967,11 +967,11 @@
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-4" value="&lt;b&gt;集群账号&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="360" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-7" value="addon-manager&lt;div&gt;签发&amp;amp;审批&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-7" value="3.addon-manager&lt;div&gt;签发&amp;amp;审批&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1548" y="380" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-8" value="根据已审批csr保存至secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1578" y="725" width="62" height="75" as="geometry" />
+        <mxCell id="VqjuS7MJY6hC2Ns0LOPC-8" value="4.监听已审批的csr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1578" y="737.5" width="62" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-9" value="南=&amp;gt;北访问" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#408c8c;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="370" width="80" height="30" as="geometry" />
@@ -980,7 +980,7 @@
           <mxGeometry x="842.5" y="830" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-13" value="&amp;nbsp;cr:kubevela-application:ocm-gateway-manager-addon" style="shape=card;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="320" height="40" as="geometry" />
+          <mxGeometry x="619" y="130" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqjuS7MJY6hC2Ns0LOPC-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.662;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VqjuS7MJY6hC2Ns0LOPC-13" target="fpJt6yyAM4Vwyxcqyrv2-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -988,10 +988,10 @@
             <mxPoint x="1090" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDK8euxpWgk9Mg59eGID-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="WX2qrqyccbtvnOghxFVv-1">
+        <mxCell id="JDK8euxpWgk9Mg59eGID-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.142;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WX2qrqyccbtvnOghxFVv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1620" y="690" as="sourcePoint" />
-            <mxPoint x="1670" y="640" as="targetPoint" />
+            <mxPoint x="1505.5" y="850" as="sourcePoint" />
+            <mxPoint x="1506" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JDK8euxpWgk9Mg59eGID-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PJm1n5G5EaOj9mcpznIt-2" target="8bUJaUnfSX31_LuBoPgA-8">
@@ -1000,19 +1000,25 @@
             <mxPoint x="1700" y="580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1600" y="850" />
-              <mxPoint x="1460" y="850" />
-              <mxPoint x="1460" y="260" />
+              <mxPoint x="1470" y="850" />
+              <mxPoint x="1470" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDK8euxpWgk9Mg59eGID-4" value="创建csr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="730" width="46" height="75" as="geometry" />
+        <mxCell id="JDK8euxpWgk9Mg59eGID-4" value="2.创建csr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1508" y="722.5" width="52" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JDK8euxpWgk9Mg59eGID-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fpJt6yyAM4Vwyxcqyrv2-5" target="WX2qrqyccbtvnOghxFVv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="390" as="sourcePoint" />
             <mxPoint x="1590" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JDK8euxpWgk9Mg59eGID-7" value="5.根据已审批csr保存至secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="910" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDK8euxpWgk9Mg59eGID-8" value="1.监听addon 创建事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="710" width="50" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
