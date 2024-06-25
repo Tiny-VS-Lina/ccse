@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T06:45:07.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x-ugnS8UuwbcBy2byeBP" version="24.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-25T06:47:21.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7fELUtzlkLjHWrq83Iow" version="24.6.2" type="github" pages="6">
   <diagram name="第 1 页" id="I3tvPYe_hqUNP-2u3Nn1">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -862,7 +862,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页 的副本" id="UE2TTPJUqwc3orfY60lR">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eiI8Xfza6XIt-I5yynx_-0" />
         <mxCell id="eiI8Xfza6XIt-I5yynx_-1" parent="eiI8Xfza6XIt-I5yynx_-0" />
@@ -981,6 +981,9 @@
               <mxPoint x="530" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3dMFjgg-lV5pnJr-X9cS-6" value="4.采集作业的执行结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ae4132;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+          <mxGeometry x="533.75" y="430" width="136.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
