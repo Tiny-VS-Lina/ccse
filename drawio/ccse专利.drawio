@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T06:47:21.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7fELUtzlkLjHWrq83Iow" version="24.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-25T08:32:31.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wEwHHVXesAhfsxgshPJJ" version="24.6.2" type="github" pages="7">
   <diagram name="第 1 页" id="I3tvPYe_hqUNP-2u3Nn1">
     <mxGraphModel dx="910" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -861,7 +861,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="第 5 页 的副本" id="UE2TTPJUqwc3orfY60lR">
+  <diagram name="第 6页" id="UE2TTPJUqwc3orfY60lR">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eiI8Xfza6XIt-I5yynx_-0" />
@@ -920,7 +920,7 @@
         <mxCell id="eiI8Xfza6XIt-I5yynx_-16" value="管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="240" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eiI8Xfza6XIt-I5yynx_-17" value="1.&amp;nbsp;租户通过web页面管理定时作业" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="eiI8Xfza6XIt-I5yynx_-17" value="1.1 租户通过web页面管理定时作业" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="448.5" y="110" width="201" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiI8Xfza6XIt-I5yynx_-18" value="web页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
@@ -932,7 +932,7 @@
             <mxPoint x="670" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eiI8Xfza6XIt-I5yynx_-20" value="2.3.下发作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="eiI8Xfza6XIt-I5yynx_-20" value="1.3.下发作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="140" y="510" width="205.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiI8Xfza6XIt-I5yynx_-21" value="Job" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
@@ -947,7 +947,7 @@
             <mxPoint x="369" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eiI8Xfza6XIt-I5yynx_-24" value="2.2.&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;创建资源分发应用-下发作业&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006EAF;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="eiI8Xfza6XIt-I5yynx_-24" value="1.2.&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;创建资源分发应用-下发作业&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006EAF;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="140" y="350" width="205.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiI8Xfza6XIt-I5yynx_-25" value="工作集群1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
@@ -959,7 +959,7 @@
             <mxPoint x="502" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3dMFjgg-lV5pnJr-X9cS-2" value="3.1同步作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="3dMFjgg-lV5pnJr-X9cS-2" value="2.1同步作业状态至管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="380" y="515" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3dMFjgg-lV5pnJr-X9cS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.543;exitY=0.996;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="eiI8Xfza6XIt-I5yynx_-1" source="eiI8Xfza6XIt-I5yynx_-13" target="eiI8Xfza6XIt-I5yynx_-15">
@@ -968,7 +968,7 @@
             <mxPoint x="387" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3dMFjgg-lV5pnJr-X9cS-4" value="3.2 同步子作业及状态至云平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="3dMFjgg-lV5pnJr-X9cS-4" value="2.2 同步子作业及状态至云平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#77b752;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="380" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3dMFjgg-lV5pnJr-X9cS-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="eiI8Xfza6XIt-I5yynx_-1" source="eiI8Xfza6XIt-I5yynx_-13" target="eiI8Xfza6XIt-I5yynx_-21">
@@ -982,8 +982,133 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3dMFjgg-lV5pnJr-X9cS-6" value="4.采集作业的执行结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ae4132;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
+        <mxCell id="3dMFjgg-lV5pnJr-X9cS-6" value="3.采集作业的执行结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ae4132;" vertex="1" parent="eiI8Xfza6XIt-I5yynx_-1">
           <mxGeometry x="533.75" y="430" width="136.25" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KFUbY8QrMXlkZoxwbOjg" name="第 7 页">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="555" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="460" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="180" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-6" value="ccseone-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="190" width="124.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-6" target="HW0xi4ovbnc7Ws6wHBZe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="160" as="sourcePoint" />
+            <mxPoint x="540" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-8" value="云平台-数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503.75" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-9" value="作业元数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="232.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.3;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-14" target="HW0xi4ovbnc7Ws6wHBZe-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375.5" y="630" as="sourcePoint" />
+            <mxPoint x="381.5" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-11" value="工作集群N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-12" value="ccseone-controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#6c8ebf;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-12" target="HW0xi4ovbnc7Ws6wHBZe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187" y="330" as="sourcePoint" />
+            <mxPoint x="534.3055555555557" y="236.8888888888889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-14" value="资源分发组件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="430" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-15" value="管控集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-16" value="1.1 租户通过web页面管理定时作业" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="110" width="201" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-17" value="web页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313.25" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-17" target="HW0xi4ovbnc7Ws6wHBZe-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="670" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-19" value="1.3.下发作业至工作集群并执行作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006eaf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="205.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-20" value="Job" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="585" width="153.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-21" value="&lt;b&gt;云平台-种子集群&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="158" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-22" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-12" target="HW0xi4ovbnc7Ws6wHBZe-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="371" y="330" as="sourcePoint" />
+            <mxPoint x="369" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-23" value="1.2.&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;创建资源分发应用-下发作业&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="154.5" y="350" width="205.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-24" value="工作集群1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="552" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.822;exitY=-0.011;exitDx=0;exitDy=0;entryX=0.43;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontColor=#2d8f7c;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430.0000000000001" y="399.35999999999996" as="sourcePoint" />
+            <mxPoint x="430.52" y="350.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.674;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-20" target="HW0xi4ovbnc7Ws6wHBZe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="650" as="sourcePoint" />
+            <mxPoint x="550" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-28" value="3.工作集群直接上报至云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-29" value="2.1 工作集群上报结果至管控集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435.5" y="522" width="94.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-30" value="2.2 管控集群上报结果至云平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435.5" y="360" width="94.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW0xi4ovbnc7Ws6wHBZe-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.791;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.872;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="HW0xi4ovbnc7Ws6wHBZe-20" target="HW0xi4ovbnc7Ws6wHBZe-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
