@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T07:51:19.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ag2hU6cYZWZfsaMaEmL4" version="22.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="7">
   <diagram name="架构图 的副本" id="YkC_as2CN-LdHwmDaywi">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1055,47 +1055,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ne8NMUQlFhoXHkBKAE1E" name="第 7 页">
-    <mxGraphModel dx="1481" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-2" value="4A认证平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-2" value="云镜认证平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-3" value="公司内网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-3" value="公司内网" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="150" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fDlWIQGdfS_CTvtq8gIX-4" target="fDlWIQGdfS_CTvtq8gIX-3">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fDlWIQGdfS_CTvtq8gIX-4" target="fDlWIQGdfS_CTvtq8gIX-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="240" as="sourcePoint" />
             <mxPoint x="260" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fDlWIQGdfS_CTvtq8gIX-3" target="fDlWIQGdfS_CTvtq8gIX-2">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fDlWIQGdfS_CTvtq8gIX-3" target="fDlWIQGdfS_CTvtq8gIX-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-7" value="1.VPN登录认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-7" value="1.VPN登录认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-8" value="4A跳板机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-8" value="生产环境跳板机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fDlWIQGdfS_CTvtq8gIX-2" target="fDlWIQGdfS_CTvtq8gIX-8">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fDlWIQGdfS_CTvtq8gIX-2" target="fDlWIQGdfS_CTvtq8gIX-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="490" as="sourcePoint" />
             <mxPoint x="620" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-10" value="2. 4A连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-10" value="2.&amp;nbsp;云镜连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fDlWIQGdfS_CTvtq8gIX-3" target="fDlWIQGdfS_CTvtq8gIX-8">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="fDlWIQGdfS_CTvtq8gIX-3" target="fDlWIQGdfS_CTvtq8gIX-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="470" as="sourcePoint" />
             <mxPoint x="330" y="420" as="targetPoint" />
@@ -1105,22 +1105,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-14" value="3. 4A认证后建立连接通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-14" value="3.&amp;nbsp;云镜认证后建立连接通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="420" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-15" value="&lt;b&gt;业务生产环境服务器&lt;/b&gt;&lt;br&gt;172.30.0.6-8: 3台&lt;br&gt;172.30.0.49-55: 7&amp;nbsp;台&lt;br&gt;172.30.0.68-70: 3台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-15" value="&lt;b&gt;业务生产环境服务器&lt;/b&gt;&lt;br&gt;172.30.0.6-8: 3台&lt;br&gt;172.30.0.49-55: 7&amp;nbsp;台&lt;br&gt;172.30.0.68-70: 3台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="275" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fDlWIQGdfS_CTvtq8gIX-8" target="fDlWIQGdfS_CTvtq8gIX-15">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fDlWIQGdfS_CTvtq8gIX-8" target="fDlWIQGdfS_CTvtq8gIX-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="490" as="sourcePoint" />
             <mxPoint x="840" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-17" value="4.通过跳板机登录&lt;br&gt;业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-17" value="4.通过跳板机登录&lt;br&gt;业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fDlWIQGdfS_CTvtq8gIX-18" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;说明&lt;/b&gt;: 1.&amp;nbsp; 跳板机通过4A平台纳管【见截图-跳板机4A截图】&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp; 必须通过指定跳板机才能登录业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="fDlWIQGdfS_CTvtq8gIX-18" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;说明&lt;/b&gt;: 1.&amp;nbsp; 跳板机通过云镜平台纳管【见截图-跳板机云镜截图】&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp; 必须通过指定跳板机才能登录业务生产环境服务器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="120" y="555" width="620" height="65" as="geometry" />
         </mxCell>
       </root>
