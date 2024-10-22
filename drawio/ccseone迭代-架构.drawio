@@ -326,11 +326,11 @@
             <mxPoint x="360" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGbf9zi2Prc4VQsBSklg-5" value="proxy-server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="CGbf9zi2Prc4VQsBSklg-5" value="proxy-server&lt;div&gt;【改造暴露http proxy】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CGbf9zi2Prc4VQsBSklg-6" value="proxy-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CGbf9zi2Prc4VQsBSklg-7" value="kubeapi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="120" height="60" as="geometry" />
@@ -346,9 +346,6 @@
             <mxPoint x="250" y="370" as="sourcePoint" />
             <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CGbf9zi2Prc4VQsBSklg-10" value="http proxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CGbf9zi2Prc4VQsBSklg-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="CGbf9zi2Prc4VQsBSklg-5" target="CGbf9zi2Prc4VQsBSklg-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -397,6 +394,9 @@
             <mxPoint x="620" y="530" as="sourcePoint" />
             <mxPoint x="670" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u-ZCigQsNY9A02GUeGI9-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;http proxy&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
