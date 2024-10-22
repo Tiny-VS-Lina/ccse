@@ -166,7 +166,7 @@
         <mxCell id="EVjvadqiVXaI0Ge2F5db-9" value="2.1 根据token生成bootstrap secret&lt;div&gt;2.2.&amp;nbsp;生成sa/secret&lt;/div&gt;&lt;div&gt;2.3&amp;nbsp;写hub kubeapi&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EVjvadqiVXaI0Ge2F5db-10" value="问题:&amp;nbsp;只能访问 proxy serer至hub kubeapi网络不通过" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EVjvadqiVXaI0Ge2F5db-10" value="问题:&amp;nbsp;只能访问 proxy serer,&amp;nbsp; 到hub kubeapi网络不通" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="420" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
