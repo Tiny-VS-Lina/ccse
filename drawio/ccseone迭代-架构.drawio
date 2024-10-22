@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-9" value="本地socket:uds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="414" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="376" y="251" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-12" value="&lt;div&gt;[anp]&lt;/div&gt;proxy-agent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="456" y="440" width="94" height="40" as="geometry" />
@@ -133,6 +133,12 @@
             <mxPoint x="230" y="180" as="sourcePoint" />
             <mxPoint x="229.41999999999985" y="208.03999999999996" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1QO2fJJEFZDzRciYymwK-3" value="3.3存储资源" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4e70d4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="305.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QO2fJJEFZDzRciYymwK-4" value="4.管理接入集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#a2496c;" vertex="1" parent="1">
+          <mxGeometry x="240" y="201" width="104.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
