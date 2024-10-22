@@ -40,7 +40,7 @@
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-12" value="proxy-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="440" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AwFK9_NXIlLO-7JiCI5e-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-11" target="AwFK9_NXIlLO-7JiCI5e-1">
+        <mxCell id="AwFK9_NXIlLO-7JiCI5e-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-11" target="AwFK9_NXIlLO-7JiCI5e-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="350" as="sourcePoint" />
             <mxPoint x="320" y="300" as="targetPoint" />
@@ -64,7 +64,7 @@
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-18" value="kube-api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="440" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AwFK9_NXIlLO-7JiCI5e-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-12" target="AwFK9_NXIlLO-7JiCI5e-18">
+        <mxCell id="AwFK9_NXIlLO-7JiCI5e-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-12" target="AwFK9_NXIlLO-7JiCI5e-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="540" as="sourcePoint" />
             <mxPoint x="550" y="490" as="targetPoint" />
@@ -89,6 +89,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="500" as="sourcePoint" />
             <mxPoint x="320" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="370" />
+              <mxPoint x="470" y="355" />
+              <mxPoint x="470" y="440" />
+              <mxPoint x="440" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.983;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-27" target="AwFK9_NXIlLO-7JiCI5e-2">
@@ -107,14 +113,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AwFK9_NXIlLO-7JiCI5e-31" value="2. 创建sa,生成secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="520" width="125" height="20" as="geometry" />
+        <mxCell id="AwFK9_NXIlLO-7JiCI5e-31" value="2. 创建sa,生成secret&lt;div&gt;3.&amp;nbsp;获取api地址&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="520" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AwFK9_NXIlLO-7JiCI5e-32" value="1.通过公网lb-连接proxy-server,&amp;nbsp;建立push通道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AwFK9_NXIlLO-7JiCI5e-33" value="3.&amp;nbsp;拉取secret" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="80" height="20" as="geometry" />
+        <mxCell id="AwFK9_NXIlLO-7JiCI5e-33" value="3.1 拉取secret" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwFK9_NXIlLO-7JiCI5e-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.438;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="AwFK9_NXIlLO-7JiCI5e-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
