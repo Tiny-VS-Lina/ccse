@@ -135,10 +135,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QO2fJJEFZDzRciYymwK-3" value="3.3存储资源" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4e70d4;" vertex="1" parent="1">
-          <mxGeometry x="270" y="305.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="242.25" y="290" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1QO2fJJEFZDzRciYymwK-4" value="4.管理接入集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#a2496c;" vertex="1" parent="1">
           <mxGeometry x="240" y="201" width="104.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1QO2fJJEFZDzRciYymwK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="AwFK9_NXIlLO-7JiCI5e-11" target="AwFK9_NXIlLO-7JiCI5e-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
